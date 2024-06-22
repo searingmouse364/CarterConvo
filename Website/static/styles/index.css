@@ -1,0 +1,64 @@
+body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    background-color: #164108;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+div{
+    margin: 0;
+}
+
+#hotbar { 
+    background-color: rgb(212, 165, 9);
+    padding-top: 7px;
+}
+
+#logo{
+    position: absolute;
+    top: 25px;
+    height: 80px;
+    right: 20px;
+
+}
+
+h1 { 
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 65px;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#ButtonDiv{
+    text-align: center;
+    margin: 0 auto; 
+    width: 500px; 
+}
+#ButtonDiv button{
+    position: relative;
+    top:90px;
+}
+
+
+hr.solid {
+    border:0;
+    margin-top: 100px;
+    border-top: 5px solid #000000;
+    line-height:0
+}
+
+
+#content{
+    margin-top: -1px;
+    padding-bottom: 100%;
+    padding-right: 100%;
+    background-color: #164108;
+}
